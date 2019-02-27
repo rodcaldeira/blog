@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-02-27T19:21:48-03:00</updated><id>/feed.xml</id><title type="html">Personal blog</title><subtitle>About Smart Contracts and Blockchain.</subtitle><entry><title type="html">Hello World!</title><link href="/about/2019/02/27/hello-world.html" rel="alternate" type="text/html" title="Hello World!" /><published>2019-02-27T16:01:56-03:00</published><updated>2019-02-27T16:01:56-03:00</updated><id>/about/2019/02/27/hello-world</id><content type="html" xml:base="/about/2019/02/27/hello-world.html">&lt;h3 id=&quot;hello-world&quot;&gt;Hello World&lt;/h3&gt;
+
+&lt;p&gt;I’m Rodrigo and this is my blog. Here you will find some stuff about smart contract and blockchain. Not only code, nor tutorials, but the thoughts behind the code - expect some incomplete code aswell…&lt;/p&gt;
+
+&lt;p&gt;See my &lt;a href=&quot;/about/&quot;&gt;about&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Have fun!&lt;/p&gt;
+
+&lt;p&gt;Regards,
+Rodrigo&lt;/p&gt;</content><author><name></name></author><summary type="html">First post in the blog</summary></entry><entry><title type="html">Car Rental</title><link href="/smartcontract/2019/02/27/smart-contract-test.html" rel="alternate" type="text/html" title="Car Rental" /><published>2019-02-27T16:01:56-03:00</published><updated>2019-02-27T16:01:56-03:00</updated><id>/smartcontract/2019/02/27/smart-contract-test</id><content type="html" xml:base="/smartcontract/2019/02/27/smart-contract-test.html">&lt;h3 id=&quot;smart-contract&quot;&gt;Smart Contract&lt;/h3&gt;
+
+&lt;p&gt;Coded smart contract&lt;/p&gt;
+
+&lt;p&gt;Rodrigo&lt;/p&gt;</content><author><name></name></author><summary type="html">Put your car to rent by kilometer</summary></entry></feed>
