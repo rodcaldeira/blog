@@ -8,7 +8,7 @@ excerpt: "First post in the blog"
 
 ### Hello World
 
-I'm Rodrigo and this is my blog. Here you will find some stuff about smart contract and blockchain. Not only code, nor tutorials, but the thoughts behind the code - expect some incomplete code aswell.
+I'm Rodrigo and this is my blog. Here you will find some stuff about smart contract and blockchain. Not only code, nor tutorials, but the thoughts behind the code - expect some incomplete code aswell...
 
 See my [about](/about/).
 

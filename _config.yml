@@ -18,6 +18,7 @@ plugins:
 show_downloads: false
 show_excerpts: true
 google_analytics:
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
