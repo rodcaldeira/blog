@@ -1,8 +1,8 @@
 
-title: Personal blog
+title: My own blogchain
 email: rod.cdr@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  About Smart Contracts and Blockchain.
+  A blog about Smart Contracts and Blockchain...
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -17,7 +17,7 @@ plugins:
 # theme specifics
 show_downloads: false
 show_excerpts: true
-google_analytics:
+google_analytics: "UA-135350722-1"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

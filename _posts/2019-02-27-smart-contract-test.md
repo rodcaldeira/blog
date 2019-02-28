@@ -11,8 +11,5 @@ categories: smartcontract
 
 Coded smart contract
 
-
-
-
-
-Rodrigo
+Regards,
+Rodrigo Caldeira

@@ -7,4 +7,4 @@ navBar: "true"
 categories: smartcontracts
 ---
 
-Here you can find some smart contracts developed or commented by me.
+Here you can find some smart contracts developed or commented by me. Enjoy!

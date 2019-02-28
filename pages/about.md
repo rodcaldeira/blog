@@ -29,5 +29,7 @@ artificial inteligence stuff.
 
 You can reach me via [linkedin](my_linkedin), or [twitter](my_twitter)
 
+Regards.
+
 [my_linkedin]: https://www.linkedin.com/in/rodrigo-caldeira-b9115825/
 [my_twitter]: https://twitter.com/rodcaldeira
