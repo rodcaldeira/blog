@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Ownership!"
+title:  "Ownership Smart Contract"
 excerpt: "It's mine and I can prove it!"
 date:   2019-02-27 16:01:56 -0300
 isSmartContract: true
